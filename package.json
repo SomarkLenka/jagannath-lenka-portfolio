@@ -1,0 +1,12 @@
+{
+  "name": "jagannath-lenka-portfolio",
+  "version": "1.0.0",
+  "description": "Academic portfolio website for Dr. Jagannath Lenka, Professor of Economics at North Orissa University",
+  "scripts": {
+    "start": "npx serve .",
+    "build": "echo 'Static site - no build required'"
+  },
+  "keywords": ["portfolio", "academic", "professor", "economics"],
+  "author": "Lenka Family",
+  "license": "MIT"
+}
